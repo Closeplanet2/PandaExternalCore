@@ -8,7 +8,6 @@ import com.comphenix.protocol.utility.MinecraftVersion;
 import com.comphenix.protocol.wrappers.WrappedChatComponent;
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;
-import org.bukkit.ChatColor;
 
 import java.util.List;
 import java.util.Optional;
