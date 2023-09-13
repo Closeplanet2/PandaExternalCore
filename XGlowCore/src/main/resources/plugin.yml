@@ -2,5 +2,6 @@ name: XGlowCore
 version: 1.0.0
 description: Core for XGlow
 authors: [Closeplanet2]
+depend: [PandaSpigotCore, ProtocolLib]
 main: com.closeplanet2.xglowcore.XGlowCore
 api-version: 1.20
