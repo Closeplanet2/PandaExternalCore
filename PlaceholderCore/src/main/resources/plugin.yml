@@ -1,0 +1,7 @@
+name: PlaceholderCore
+version: 1.0.0
+description: Core to interface with PlaceholderAPI
+authors: [Closeplanet2]
+depend: [PlaceholderAPI]
+main: com.closeplanet2.placeholdercore.PlaceholderCore
+api-version: 1.20
