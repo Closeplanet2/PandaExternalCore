@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="PandaSpigotCore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Dreamfire Core/PandaSpigotCore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Dreamfire Core/PandaSpigotCore.jar!/" />
+    </SOURCES>
+  </library>
+</component>
